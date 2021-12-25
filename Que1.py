@@ -5,4 +5,4 @@ def multiply(list):
     for x in list:
         result *= x
     return result
-print(multiply([1,2,8]))
+print(multiply([1,2,8, 5]))
